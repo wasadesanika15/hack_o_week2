@@ -837,3 +837,134 @@ timestamp,query,matched_faq,score
 2026-04-04T14:16:52.941858,Parking facility for vehicle,Is college bus or transport facility available?,0.6925
 2026-04-04T14:16:52.964404,Metro station nearest to campus,Is college bus or transport facility available?,0.5161
 2026-04-04T14:16:52.987136,Commute options for students,Are scholarships available for students?,0.4261
+2026-04-04T14:17:54.104071,what is my college name,How can I apply for admissions and what is the process?,0.4919
+2026-04-04T14:19:22.852650,how to do admission?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:19:22.878168,what is my college name?,What are the college timings and working hours?,0.3145
+2026-04-04T14:19:22.906052,what is my college name/,What are the college timings and working hours?,0.3145
+2026-04-04T14:22:33.671659,what is my college name/,What are the college timings and working hours?,0.3145
+2026-04-04T14:22:50.548814,what is my college name/,What are the college timings and working hours?,0.3145
+2026-04-04T14:23:10.800311,what is my college name/,What are the college timings and working hours?,0.3145
+2026-04-04T14:23:26.991705,what is my college name/,What are the college timings and working hours?,0.3145
+2026-04-04T14:26:03.213018,What are the college timings?,What are the college timings and working hours?,0.6528
+2026-04-04T14:26:03.249446,Tell me about hostel facilities,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:03.299043,What is the fee structure?,What is the fee structure and payment schedule?,0.5666
+2026-04-04T14:26:03.336583,SEM 3 CS timetable,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:03.355300,When is the exam?,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:03.377796,What are the college timings?,What are the college timings and working hours?,0.6528
+2026-04-04T14:26:03.400749,How do I pay my fees online?,How do I contact the college office or departments?,0.4231
+2026-04-04T14:26:03.421968,When are the semester exams?,When are semester exams and how is the exam schedule announced?,0.6871
+2026-04-04T14:26:03.448108,How can I apply for admission?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:26:03.471112,Are there any scholarships available?,Are scholarships available for students?,0.7981
+2026-04-04T14:26:03.497625,Does the college have a hostel?,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:03.522911,How do I contact the IT department?,How do I contact the college office or departments?,0.6907
+2026-04-04T14:26:03.550897,What is the minimum attendance requirement?,What is the minimum attendance requirement?,1.0000
+2026-04-04T14:26:03.577682,Where can I find my class timetable?,Where can I find my class timetable?,0.8940
+2026-04-04T14:26:03.599513,What are the placement opportunities?,What are the placement opportunities and training support?,0.7315
+2026-04-04T14:26:03.646864,SEM 3 CS timetable,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:03.664236,When is the exam?,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:03.688971,What is the fee structure for CS?,What is the fee structure and payment schedule?,0.5666
+2026-04-04T14:26:03.706291,And for semester 5?,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:03.728235,What about exam dates?,,0.3476
+2026-04-04T14:26:03.751758,Tell me about hostel facilities and accommodation,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:03.773073,What about fees?,,0.3145
+2026-04-04T14:26:11.940383,What is the tuition amount?,,0.3145
+2026-04-04T14:26:11.956074,How to make payment for semester?,When are semester exams and how is the exam schedule announced?,0.5019
+2026-04-04T14:26:11.972269,What is the cost of the course?,,0.3145
+2026-04-04T14:26:11.989228,Tell me about charges for MBA,,0.0000
+2026-04-04T14:26:12.007088,When are the dues due?,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:12.027901,When is the next test?,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:12.046033,Semester examination schedule,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:12.064507,Assessment dates for CS,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:12.082611,Paper dates for final year,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:12.097586,Midterm dates please,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:12.120528,How to apply for enrollment?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:26:12.139983,Application process for engineering,How can I apply for admissions and what is the process?,0.5062
+2026-04-04T14:26:12.156881,What is the entry process?,How can I apply for admissions and what is the process?,0.5777
+2026-04-04T14:26:12.179584,Registration deadline for MBA,,0.0000
+2026-04-04T14:26:12.198480,How to enroll in the college?,How do I contact the college office or departments?,0.4231
+2026-04-04T14:26:12.219126,Is dormitory available?,Does the college provide hostel accommodation?,0.4359
+2026-04-04T14:26:12.236652,Residence facility for students,,0.3479
+2026-04-04T14:26:12.255410,Boarding house rules,Does the college provide hostel accommodation?,0.4082
+2026-04-04T14:26:12.278742,Room accommodation details,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:12.299433,PG facility at college,Does the college provide hostel accommodation?,0.4082
+2026-04-04T14:26:12.321038,Is financial aid available?,Are scholarships available for students?,0.5232
+2026-04-04T14:26:12.337701,Merit aid eligibility criteria,,0.0000
+2026-04-04T14:26:12.357612,How to apply for grant?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:26:12.376848,Fee waiver application process,How can I apply for admissions and what is the process?,0.5062
+2026-04-04T14:26:12.395636,Fellowship details for research,,0.0000
+2026-04-04T14:26:12.422497,Campus drive schedule,,0.0000
+2026-04-04T14:26:12.446971,Job opportunities through college,What are the placement opportunities and training support?,0.6818
+2026-04-04T14:26:12.467842,Which recruiters visit campus?,Which academic departments and programs are offered?,0.4710
+2026-04-04T14:26:12.487426,Internship through placement cell,What are the placement opportunities and training support?,0.4821
+2026-04-04T14:26:12.514992,Career guidance and hiring support,What are the placement opportunities and training support?,0.6468
+2026-04-04T14:26:12.540808,Can I borrow books?,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:12.563630,Digital library access from home,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:12.581410,E-book and journal access,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:12.598608,Reference section in reading room,What are library hours and borrowing rules?,0.3511
+2026-04-04T14:26:12.614228,Study room availability,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:12.636733,What is the class schedule?,Where can I find my class timetable?,0.4523
+2026-04-04T14:26:12.654394,Lecture timing for Monday,,0.0000
+2026-04-04T14:26:12.673101,Weekly routine for CS department,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:12.693076,Lab slots and periods,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:12.708150,Time table download as PDF,,0.0000
+2026-04-04T14:26:12.726699,Am I present enough to sit exam?,What is the minimum attendance requirement?,0.3891
+2026-04-04T14:26:12.742034,Minimum 75 percent rule,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:12.757331,Shortage consequence for absent,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:12.779356,Biometric roll call system,What is the minimum attendance requirement?,0.3891
+2026-04-04T14:26:12.795262,Proxy attendance penalty,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:12.814952,College bus route from station,Is college bus or transport facility available?,0.5161
+2026-04-04T14:26:12.833317,Shuttle service timings,What are the college timings and working hours?,0.4045
+2026-04-04T14:26:12.850669,Parking facility for vehicle,Is college bus or transport facility available?,0.6925
+2026-04-04T14:26:12.866801,Metro station nearest to campus,Is college bus or transport facility available?,0.5161
+2026-04-04T14:26:12.881016,Commute options for students,Are scholarships available for students?,0.4261
+2026-04-04T14:26:12.898877,What is the tuition amount?,,0.3145
+2026-04-04T14:26:12.914581,How to make payment for semester?,When are semester exams and how is the exam schedule announced?,0.5019
+2026-04-04T14:26:12.932338,What is the cost of the course?,,0.3145
+2026-04-04T14:26:12.947549,Tell me about charges for MBA,,0.0000
+2026-04-04T14:26:12.964579,When are the dues due?,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:12.981161,When is the next test?,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:12.997306,Semester examination schedule,When are semester exams and how is the exam schedule announced?,0.5610
+2026-04-04T14:26:13.012160,Assessment dates for CS,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:13.029297,Paper dates for final year,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:13.044147,Midterm dates please,When are semester exams and how is the exam schedule announced?,0.3967
+2026-04-04T14:26:13.060925,How to apply for enrollment?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:26:13.078814,Application process for engineering,How can I apply for admissions and what is the process?,0.5062
+2026-04-04T14:26:13.092203,What is the entry process?,How can I apply for admissions and what is the process?,0.5777
+2026-04-04T14:26:13.106757,Registration deadline for MBA,,0.0000
+2026-04-04T14:26:13.121256,How to enroll in the college?,How do I contact the college office or departments?,0.4231
+2026-04-04T14:26:13.139111,Is dormitory available?,Does the college provide hostel accommodation?,0.4359
+2026-04-04T14:26:13.153738,Residence facility for students,,0.3479
+2026-04-04T14:26:13.168881,Boarding house rules,Does the college provide hostel accommodation?,0.4082
+2026-04-04T14:26:13.184169,Room accommodation details,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:13.198291,PG facility at college,Does the college provide hostel accommodation?,0.4082
+2026-04-04T14:26:13.212557,Is financial aid available?,Are scholarships available for students?,0.5232
+2026-04-04T14:26:13.226721,Merit aid eligibility criteria,,0.0000
+2026-04-04T14:26:13.239947,How to apply for grant?,How can I apply for admissions and what is the process?,0.3923
+2026-04-04T14:26:13.253592,Fee waiver application process,How can I apply for admissions and what is the process?,0.5062
+2026-04-04T14:26:13.266866,Fellowship details for research,,0.0000
+2026-04-04T14:26:13.280107,Campus drive schedule,,0.0000
+2026-04-04T14:26:13.295474,Job opportunities through college,What are the placement opportunities and training support?,0.6818
+2026-04-04T14:26:13.309658,Which recruiters visit campus?,Which academic departments and programs are offered?,0.4710
+2026-04-04T14:26:13.325994,Internship through placement cell,What are the placement opportunities and training support?,0.4821
+2026-04-04T14:26:13.341022,Career guidance and hiring support,What are the placement opportunities and training support?,0.6468
+2026-04-04T14:26:13.356678,Can I borrow books?,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:13.373527,Digital library access from home,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:13.389756,E-book and journal access,What are library hours and borrowing rules?,0.4965
+2026-04-04T14:26:13.407529,Reference section in reading room,What are library hours and borrowing rules?,0.3511
+2026-04-04T14:26:13.424127,Study room availability,Does the college provide hostel accommodation?,0.5774
+2026-04-04T14:26:13.440011,What is the class schedule?,Where can I find my class timetable?,0.4523
+2026-04-04T14:26:13.454148,Lecture timing for Monday,,0.0000
+2026-04-04T14:26:13.469235,Weekly routine for CS department,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:13.485502,Lab slots and periods,Where can I find my class timetable?,0.5161
+2026-04-04T14:26:13.501201,Time table download as PDF,,0.0000
+2026-04-04T14:26:13.515911,Am I present enough to sit exam?,What is the minimum attendance requirement?,0.3891
+2026-04-04T14:26:13.531552,Minimum 75 percent rule,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:13.547887,Shortage consequence for absent,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:13.566843,Biometric roll call system,What is the minimum attendance requirement?,0.3891
+2026-04-04T14:26:13.582106,Proxy attendance penalty,What is the minimum attendance requirement?,0.5503
+2026-04-04T14:26:13.599672,College bus route from station,Is college bus or transport facility available?,0.5161
+2026-04-04T14:26:13.616184,Shuttle service timings,What are the college timings and working hours?,0.4045
+2026-04-04T14:26:13.631545,Parking facility for vehicle,Is college bus or transport facility available?,0.6925
+2026-04-04T14:26:13.649278,Metro station nearest to campus,Is college bus or transport facility available?,0.5161
+2026-04-04T14:26:13.666738,Commute options for students,Are scholarships available for students?,0.4261
+2026-04-04T14:26:45.645657,what is my college name/,,0.3145
