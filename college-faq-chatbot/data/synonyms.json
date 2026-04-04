@@ -1,0 +1,17 @@
+{
+  "fees": ["fee", "payment", "cost", "tuition", "charges", "dues", "money", "amount", "price", "pay", "challan"],
+  "exam": ["test", "paper", "semester exam", "examination", "assessment", "midterm", "finals", "viva", "practical exam", "backlog"],
+  "admission": ["apply", "application", "enroll", "enrollment", "entry", "registration", "register", "join", "joining", "cutoff", "merit list"],
+  "hostel": ["dorm", "dormitory", "residence", "boarding", "pg", "paying guest", "room", "accommodation", "mess", "stay"],
+  "scholarship": ["financial aid", "merit aid", "grant", "waiver", "freeship", "fellowship", "stipend", "bursary", "concession"],
+  "timing": ["hours", "schedule", "open", "closing", "campus hours", "working hours", "office hours", "time"],
+  "contact": ["phone", "email", "reach", "call", "office address", "helpline", "number", "mail", "enquiry", "inquiry"],
+  "holiday": ["vacation", "break", "leave", "day off", "off day", "closed", "shut", "gap", "recess"],
+  "placement": ["job", "campus drive", "recruiter", "campus interview", "career", "package", "offer", "hiring", "internship", "recruit"],
+  "department": ["dept", "branch", "discipline", "faculty", "stream", "course", "program", "major"],
+  "timetable": ["time table", "class schedule", "routine", "periods", "lecture schedule", "slots", "lecture timing", "class timing"],
+  "library": ["books", "borrow", "issue", "digital library", "reading room", "journal", "e-book", "reference", "study room"],
+  "attendance": ["present", "absent", "proxy", "shortage", "75 percent", "minimum attendance", "biometric", "roll call"],
+  "transport": ["bus", "shuttle", "commute", "travel", "route", "parking", "metro", "cab", "vehicle", "ride"],
+  "location": ["campus", "address", "where", "direction", "map", "navigate", "area", "place", "situated"]
+}

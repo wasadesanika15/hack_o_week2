@@ -1,0 +1,107 @@
+[
+  {
+    "id": "timings",
+    "category": "general",
+    "question": "What are the college timings and working hours?",
+    "answer": "College timings are 9:00 AM to 5:00 PM on weekdays. Administrative offices close at 4:30 PM on Saturdays.",
+    "answer_template": "College timings are 9:00 AM to 5:00 PM on weekdays. Administrative offices close at 4:30 PM on Saturdays."
+  },
+  {
+    "id": "fees",
+    "category": "fees",
+    "question": "What is the fee structure and payment schedule?",
+    "answer": "Fees vary by program (B.Tech, MBA, etc.). Tuition is typically payable per semester via online portal or demand draft. Late fees apply after the due date shown on the portal.",
+    "answer_template": "Fees vary by program. For the {department} department, tuition for semester {semester} is payable via the online portal or demand draft. Late fees apply after the due date."
+  },
+  {
+    "id": "exam_dates",
+    "category": "exam",
+    "question": "When are semester exams and how is the exam schedule announced?",
+    "answer": "Semester exams are held at the end of each semester. Provisional exam dates are published on the institute portal at least two weeks in advance; final dates appear on the official timetable.",
+    "answer_template": "Semester {semester} exams for {department} are held at the end of the semester. Provisional dates are published on the institute portal at least two weeks in advance."
+  },
+  {
+    "id": "admissions",
+    "category": "admissions",
+    "question": "How can I apply for admissions and what is the process?",
+    "answer": "Apply online through the college admissions portal, upload required documents, pay the application fee, and track status via the same dashboard. Entrance test or merit criteria depend on the program.",
+    "answer_template": "Apply online through the college admissions portal for {department}. Upload required documents, pay the application fee, and track your status via the dashboard."
+  },
+  {
+    "id": "scholarships",
+    "category": "scholarship",
+    "question": "Are scholarships available for students?",
+    "answer": "Yes. Merit-based and need-based scholarships are offered subject to eligibility. Details and deadlines are listed under the Scholarships section on the official website each academic year.",
+    "answer_template": "Yes. Merit-based and need-based scholarships are available for {department} students. Details and deadlines are listed under the Scholarships section on the official website."
+  },
+  {
+    "id": "hostel",
+    "category": "hostel",
+    "question": "Does the college provide hostel accommodation?",
+    "answer": "Hostel facilities are available for eligible students on a first-come, first-served basis. Apply through the hostel office after admission confirmation; fees include room and mess charges separately.",
+    "answer_template": "Hostel facilities are available for eligible students. Apply through the hostel office after admission confirmation; fees include room and mess charges separately."
+  },
+  {
+    "id": "contacts",
+    "category": "general",
+    "question": "How do I contact the college office or departments?",
+    "answer": "You can reach the main office at office@college.edu or call the reception listed on the Contact Us page. Department HOD emails and phone extensions are also published on the portal.",
+    "answer_template": "You can reach the {department} department or main office at office@college.edu. Department HOD emails and phone extensions are published on the portal."
+  },
+  {
+    "id": "holidays",
+    "category": "general",
+    "question": "What is the academic holiday list?",
+    "answer": "National holidays, institute-declared breaks, and term vacations are published in the annual academic calendar on the website. Updates are emailed to all registered students.",
+    "answer_template": "National holidays, institute-declared breaks, and term vacations are published in the annual academic calendar. Updates are emailed to all registered students."
+  },
+  {
+    "id": "placement",
+    "category": "placement",
+    "question": "What are the placement opportunities and training support?",
+    "answer": "The Training and Placement Cell coordinates campus drives, internships, and soft-skills workshops. Eligible final-year students register on the placement portal; companies and dates are announced there.",
+    "answer_template": "The Training and Placement Cell coordinates campus drives and internships for {department} students. Register on the placement portal; companies and dates are announced there."
+  },
+  {
+    "id": "departments",
+    "category": "general",
+    "question": "Which academic departments and programs are offered?",
+    "answer": "The institute offers undergraduate and postgraduate programs across departments such as Computer Science, Information Technology, Mechanical, Civil, Electronics, and Management Studies.",
+    "answer_template": "The institute offers undergraduate and postgraduate programs across departments such as Computer Science, Information Technology, Mechanical, Civil, Electronics, and Management Studies."
+  },
+  {
+    "id": "library",
+    "category": "library",
+    "question": "What are library hours and borrowing rules?",
+    "answer": "The central library is open on all working days from 8:30 AM to 6:00 PM. Borrowing limits and renewal rules are printed on your library card and the digital library portal.",
+    "answer_template": "The central library is open from 8:30 AM to 6:00 PM on all working days. Borrowing limits and renewal rules are printed on your library card and the digital library portal."
+  },
+  {
+    "id": "timetable",
+    "category": "timetable",
+    "question": "Where can I find my class timetable?",
+    "answer": "Class timetables are published on the student portal under Timetable. Department notice boards may show updates; contact your class coordinator for clashes or changes.",
+    "answer_template": "Class timetable for semester {semester} ({department} dept.) is published on the student portal. Contact your class coordinator for clashes or changes."
+  },
+  {
+    "id": "location",
+    "category": "general",
+    "question": "Where is the campus located?",
+    "answer": "The campus is located in Nagpur (Wathoda area). Full address, maps, and public transport options are on the Visit Us page of the college website.",
+    "answer_template": "The campus is located in Nagpur (Wathoda area). Full address, maps, and public transport options are on the Visit Us page of the college website."
+  },
+  {
+    "id": "attendance",
+    "category": "general",
+    "question": "What is the minimum attendance requirement?",
+    "answer": "Students are generally required to maintain at least 75% attendance as per university norms, unless exempted under documented medical or approved leave policies.",
+    "answer_template": "Students in semester {semester} must maintain at least 75% attendance per university norms, unless exempted under documented medical or approved leave policies."
+  },
+  {
+    "id": "transport",
+    "category": "general",
+    "question": "Is college bus or transport facility available?",
+    "answer": "A limited bus service covers major routes in the city. Routes, timings, and fees are announced at the start of each semester by the transport office.",
+    "answer_template": "A limited bus service covers major routes in the city. Routes, timings, and fees are announced at the start of each semester by the transport office."
+  }
+]
