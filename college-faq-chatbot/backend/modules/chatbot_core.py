@@ -135,8 +135,12 @@ def get_chat_payload(query: str, session_id: str) -> dict[str, Any]:
 
     # Light follow-up boost: very short utterances reuse last non-general topic
     retrieval_query = expanded
+    
+    is_short_followup = len(q.split()) <= 4
+    has_followup_keywords = q.lower().startswith(("and ", "what about ", "how about ", "for "))
+    
     if (
-        len(q.split()) < 6
+        (is_short_followup or has_followup_keywords)
         and state.last_intent
         and state.last_intent != "general"
         and intent == "general"

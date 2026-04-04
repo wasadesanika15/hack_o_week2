@@ -24,8 +24,8 @@ except ImportError:
 
 from .preprocessor import preprocess
 
-# Default aligns with legacy monolithic chatbot threshold
-DEFAULT_CONFIDENCE_THRESHOLD = 0.25
+# Default aligns with legacy monolithic chatbot threshold but tightened for precision
+DEFAULT_CONFIDENCE_THRESHOLD = 0.3
 
 FALLBACK_MESSAGE = (
     "I'm not fully sure which topic you mean. Try asking about timings, fees, "

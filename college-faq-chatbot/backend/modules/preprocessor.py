@@ -113,6 +113,9 @@ def preprocess(text: str) -> str:
     # Keep question-like tokens that may carry intent
     keep = {"what", "when", "where", "who", "how", "which", "why"}
     stop -= keep
+    
+    # Add domain-inspecific words as extra stopwords so they don't skew TF-IDF matching
+    stop.update({"college", "university", "institute", "campus"})
 
     out: list[str] = []
     for raw in tokens:
