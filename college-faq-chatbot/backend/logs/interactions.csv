@@ -1,0 +1,36 @@
+id,timestamp,session_id,query,intent,score,answer,fallback_triggered
+a892a640-2875-46d1-bde8-536db5d1420e,2026-04-09T05:46:48.323873,1946f71e-4005-48ff-9fde-29036329d9fc,when is my college starting,general,0.0,"I wasn't able to find a reliable answer to your question.
+
+Please reach out for personal assistance:
+  • Email your advisor: mailto:advisor@college.edu
+  • Visit the helpdesk: https://helpdesk.college.edu
+
+A human advisor will be happy to help!",True
+0a7aefd9-561d-4ffd-87b1-10952892f8e0,2026-04-09T05:46:50.657824,1946f71e-4005-48ff-9fde-29036329d9fc,when is my college starting,general,0.0,"I wasn't able to find a reliable answer to your question.
+
+Please reach out for personal assistance:
+  • Email your advisor: mailto:advisor@college.edu
+  • Visit the helpdesk: https://helpdesk.college.edu
+
+A human advisor will be happy to help!",True
+d1e19cb6-b321-448a-840d-6959d5c0f1f5,2026-04-09T05:53:27.049409,6d44a9d8-ecc2-46e8-8c7f-7d1ffa1988dd,What is the fee structure?,general,0.0,"I wasn't able to find a reliable answer to your question.
+
+Please reach out for personal assistance:
+  • Email your advisor: mailto:advisor@college.edu
+  • Visit the helpdesk: https://helpdesk.college.edu
+
+A human advisor will be happy to help!",True
+d27a13f5-ca5b-4beb-9877-aac1e9298d35,2026-04-09T05:53:58.007481,6d44a9d8-ecc2-46e8-8c7f-7d1ffa1988dd,is arya immature,general,0.0,"I wasn't able to find a reliable answer to your question.
+
+Please reach out for personal assistance:
+  • Email your advisor: mailto:advisor@college.edu
+  • Visit the helpdesk: https://helpdesk.college.edu
+
+A human advisor will be happy to help!",True
+34967e91-9769-4832-a308-5acdf0f1c552,2026-04-09T05:54:31.210836,6d44a9d8-ecc2-46e8-8c7f-7d1ffa1988dd,is sparsh in this college,general,0.0,"I wasn't able to find a reliable answer to your question.
+
+Please reach out for personal assistance:
+  • Email your advisor: mailto:advisor@college.edu
+  • Visit the helpdesk: https://helpdesk.college.edu
+
+A human advisor will be happy to help!",True
