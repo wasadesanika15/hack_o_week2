@@ -139,8 +139,10 @@ Bot: Goodbye!
 
 **Sanika Wasade**
 [GitHub Profile](https://github.com/wasadesanika15)
+
 **Sparsh Goswami**
 [GitHub Profile](https://github.com/sparsh566)
+
 **Arya Patle**
 [GitHub Profile](https://github.com/Aryapatle)
 
