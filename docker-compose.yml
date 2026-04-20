@@ -1,0 +1,45 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: college_faq_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - ADVISOR_EMAIL=advisor@college.edu
+      - HELPDESK_URL=https://college.edu/helpdesk
+      - LOG_LEVEL=INFO
+      - MODEL_PATH=/app/backend/models/faq_model.pkl
+    volumes:
+      - ./backend/models:/app/backend/models
+      - ./backend/logs:/app/backend/logs
+      - ./data:/app/data
+    networks:
+      - chatbot-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: college_faq_frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_URL=http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - chatbot-network
+
+networks:
+  chatbot-network:
+    driver: bridge
